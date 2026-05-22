@@ -1,0 +1,1 @@
+Currently this repo is hosting an export of my wordpress page. This is currently not my work, but will serve as the base as I move toward an AWS architecture towards the AWS Solutions Architect certification
